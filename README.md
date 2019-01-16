@@ -6,3 +6,5 @@ Katastrophe
 ## Ziel
 
 Rettung
+
+Sofort und unverzüglich!
